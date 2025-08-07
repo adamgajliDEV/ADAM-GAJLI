@@ -1,45 +1,37 @@
-# ADAM-GAJLI
-👋 Hi, I'm Adam Gajli 
-💻 Beginner Web Developer | Learning HTML &amp; CSS 
-🚀 On a journey to become a front-end developer 
-📚 I love building small web projects and improving my skills 
-🎯 Always learning, always growing
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e5/33/5c/e5335c391a712d0ed918460dfb52179b.gif" width="700" alt="Guts Berserk">
-</div>
+# Hi, I'm Adam Gajli 👋
 
-<br><br>
+I'm a beginner Front-End Developer from Morocco 🇲🇦  
+Currently learning HTML and CSS, and working towards mastering web development.
 
-# About Me 💬
+---
 
-### - I'm Adam Gajli, a motivated self-learner from Morocco 🇲🇦  
-### - Aspiring Front-End Developer with a passion for anime, especially **Berserk** 🗡️
+## 🧠 What I'm Learning
 
-<img height="300" align="right" src="https://media.tenor.com/tu1SWT8gJtEAAAAd/guts.gif" alt="Guts">
+- HTML5  
+- CSS3  
+- JavaScript (coming soon)  
+- Responsive Web Design  
+- Basics of Git and GitHub  
 
-### - Currently Learning:
-- 🧠 HTML & CSS
-- 💡 Web Design Basics
-- 🔜 JavaScript (soon)
+---
 
-### - Hobbies:
-- 🎨 Watching dark, story-rich anime (like *Berserk*)
-- ✏️ Creating anime edits & sharing content online
-- 📘 Learning new things every day
-
-<br><br><br>
-
-# My Tech Stack 🛠️
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/html.png" alt="HTML" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/css.png" alt="CSS" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="VS Code" width="140">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" />
 </p>
 
-<br><br><br>
+---
 
-# Berserk Mood 🔥
+## 📫 Contact Me
 
-<div align="center">
-  <img src="https://media.tenor.com/2wHzOZPobT0AAAAC/guts-berserk.gif" width="600" alt="
+Feel free to reach out to me via email:  
+[adamgajli01@gmail.com](mailto:adamgajli01@gmail.com)
+
+---
+
+*Thanks for visiting my GitHub profile!*
